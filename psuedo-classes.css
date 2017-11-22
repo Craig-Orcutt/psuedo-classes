@@ -1,0 +1,10 @@
+.block {
+    display: inline;
+}
+
+.inline {
+    display: block;
+}
+ .n-child :nth-child(even) {
+     border: 1px solid black;
+ }
